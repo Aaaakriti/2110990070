@@ -30,12 +30,12 @@ body{
 }
 
 .nav-head li a{
-    color:white;
+    color:blue;
     text-decoration: none;
 }
 
 .nav-menu li a{
-    transition:color 0.5s, border-bottom 3s;
+    transition:color 0.5s, border-bottom 5s;
 }
 
 
